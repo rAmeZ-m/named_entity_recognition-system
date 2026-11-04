@@ -1,0 +1,4 @@
+venv/
+distilbert-ner/
+__pycache__/
+*.pt
